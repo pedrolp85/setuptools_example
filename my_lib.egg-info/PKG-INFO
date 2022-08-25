@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: my-lib
+Version: 1.0.0
+Summary: My personal project!
+Home-page: https://github.com/pedro
+Author: Pedro
+Author-email: pepito@gmail.com
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.7
+
+HI!
